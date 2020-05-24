@@ -1,0 +1,28 @@
+{
+  "name": "lamour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev .",
+    "build": "vuepress build .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunmaer/lamour.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "sunmaer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunmaer/lamour/issues"
+  },
+  "homepage": "https://github.com/sunmaer/lamour#readme",
+  "devDependencies": {
+    "markdown-it-task-lists": "^2.1.1",
+    "vuepress": "^1.4.1"
+  }
+}
